@@ -1,4 +1,4 @@
-package Methods;
+package WarmUps;
 
 public class WarmUpTask3_04_20_2020 {
    /*

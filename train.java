@@ -1,4 +1,4 @@
-package Methods;
+package WarmUps;
 
 public class train {
     public static void main(String[] args) {
